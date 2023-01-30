@@ -1,5 +1,5 @@
 # A full-stack app with PERN STACK to locate and report Orca pods spotted locally.
-<img src="../../clientsite/findorca-app/src/assets/PERN.png">
+<img src="https://miro.medium.com/max/828/1*FKfDYnucBeQLpwx5O8Mqzg.webp">
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
