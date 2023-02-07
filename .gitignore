@@ -4,7 +4,6 @@
 /node_modules
 /.pnp
 .pnp.js
-/MapContainer.jsx
 # testing
 /coverage
 
@@ -24,3 +23,5 @@ yarn-error.log*
 node_modules
 secret.txt
 MapContainer.jsx
+<file or folder name>
+src\components\MapContainer.jsx
