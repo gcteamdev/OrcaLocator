@@ -1,5 +1,21 @@
-# A full-stack app with PERN STACK to locate and report Orca pods spotted locally.
-<img src="https://miro.medium.com/max/828/1*FKfDYnucBeQLpwx5O8Mqzg.webp">
+# Table of contents
+* Overview
+ ### A full-stack app with PERN STACK to locate and report Orca pods spotted locally.
+* Features
+  * Made with:
+    * React.Js
+    * JavaScript
+    * HTML / CSS
+    * Material UI
+    * Bootstrap
+    * Node.js
+  * Installations
+* License
+  * Distributed under the MIT License. See License.md for more information.
+* Author
+  * Developer: 👔 🔗 [G. Hamza Choudhury](https://www.linkedin.com/in/devhamza/)
+  <img src="https://miro.medium.com/max/828/1*FKfDYnucBeQLpwx5O8Mqzg.webp">
+
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
